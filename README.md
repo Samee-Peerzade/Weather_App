@@ -1,5 +1,5 @@
 # Weather_App
-Know the Current Weather Details across the World !!!!   Express.js |  API | Bootstrap | HTML/CSS |  Node.js | NPM module | Postman API platform | OpenWeatherMap | HyperTerminal | VS code  
+Know the Current Weather Details across the World !!!!   Express.js |  API | HTML/CSS |  Node.js | NPM module | Postman API platform | OpenWeatherMap | HyperTerminal | VS code  
 
 To Run the app enter this command at your terminal nodemon app.js
 
